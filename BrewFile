@@ -1,0 +1,28 @@
+tap "homebrew/cask"
+
+#### Utilitaries ####
+cask "raycast"
+cask "bartender"
+cask "cleanmymac"
+cask "cleanshot"
+cask "1password"
+
+#### Productivity #### 
+cask "todoist"
+cask "cron"
+
+#### Software development ####
+cask "iterm2"
+cask "visual-studio-code"
+
+#### Communication ####
+cask "discord"
+# cask "slack"
+
+#### Design ####
+cask "figma"
+cask "affinity-designer"
+
+#### Other ####
+cask "google-chrome"
+cask "spotify"
