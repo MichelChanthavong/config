@@ -1,0 +1,33 @@
+{
+  "entries": {
+    "brew": {
+      "raycast": {
+      }
+    },
+    "tap": {
+      "homebrew/cask": {
+        "revision": "1858cc6b81c84036e6e9ac00a0e72e33b78d3cd3"
+      }
+    },
+    "cask": {
+      "raycast": {
+        "version": "1.42.2",
+        "options": {
+          "full_name": "raycast"
+        }
+      }
+    }
+  },
+  "system": {
+    "macos": {
+      "ventura": {
+        "HOMEBREW_VERSION": "3.6.8",
+        "HOMEBREW_PREFIX": "/usr/local",
+        "Homebrew/homebrew-core": "48056701a1ca5ab24972ff5b2926b59494c76df5",
+        "CLT": "14.1.0.0.1.1666437224",
+        "Xcode": "14.1",
+        "macOS": "13.0"
+      }
+    }
+  }
+}
