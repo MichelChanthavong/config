@@ -1,4 +1,5 @@
 tap "homebrew/cask"
+tap "homebrew/cask-fonts"
 
 #### Utilitaries ####
 cask "raycast"              # App launcher  
@@ -34,3 +35,12 @@ cask "figma"                # The design app
 cask "google-chrome"        # Browser from google
 cask "spotify"              # Music streaming app
 
+#### Fonts ####
+cask "font-inter"           
+cask "font-jetbrains-mono"              # Typeface made for developers by jetbrains 
+cask "font-jetbrains-mono-nerd-font"    # Developer targeted fonts with a high number of glyphs
+cask "font-mona-sans"                   # Mona Sans, a variable font from GitHub
+cask "font-hubot-sans"                  # Hubot Sans, a variable font from GitHub
+cask "font-fira-code"                   # Free monospaced font with programming ligatures by Mozilla
+cask "font-fira-mono"                   # Free monospaced font with programming ligatures by Mozilla
+cask "font-fira-sans"                   # Free monospaced font with programming ligatures by Mozilla
