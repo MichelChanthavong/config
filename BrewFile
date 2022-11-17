@@ -1,28 +1,36 @@
 tap "homebrew/cask"
 
 #### Utilitaries ####
-cask "raycast"
-cask "bartender"
-cask "cleanmymac"
-cask "cleanshot"
-cask "1password"
+cask "raycast"              # App launcher  
+cask "bartender"            # Keep the menu bar clean and tidy
+cask "cleanmymac"           # Clean and monitor the mac
+cask "cleanshot"            # Capture the mac screen
+cask "1password"            # Password manager
+# cask "karabiner-elements" # Keyboard customizer
+# cask "bettertouchtool"    # Customize input device
 
 #### Productivity #### 
-cask "todoist"
-cask "cron"
+cask "todoist"              # Task management
+cask "cron"                 # Calendar on steroid
+cask "obsidian"             # Knowledge base that use markdown
+# cask "notion"             # App to write, plan, collaborate, and get organized
 
 #### Software development ####
-cask "iterm2"
-cask "visual-studio-code"
+cask "iterm2"               # Enhance terminal
+cask "visual-studio-code"   # Simple IDE
 
 #### Communication ####
-cask "discord"
-# cask "slack"
+cask "discord"              # Place to talk and hang out
+# cask "slack"              # Async communication app
 
 #### Design ####
-cask "figma"
-cask "affinity-designer"
+cask "figma"                # The design app
+# mas "affinity-designer"     # Vector design app
+# mas "affinity-photo"      # Photo editor app
+# mas "affinity-publisher"  # Publishing app 
+# cask "blender"            # 3d modelisation app
 
 #### Other ####
-cask "google-chrome"
-cask "spotify"
+cask "google-chrome"        # Browser from google
+cask "spotify"              # Music streaming app
+

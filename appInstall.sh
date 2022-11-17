@@ -11,6 +11,7 @@ else
     brew update
 fi
 
+echo "Start installing your favorite apps"
 # Brew bundle will execute the BrewFile
 brew bundle
 
