@@ -19,6 +19,9 @@ cask "obsidian"             # Knowledge base that use markdown
 #### Software development ####
 cask "iterm2"               # Enhance terminal
 cask "visual-studio-code"   # Simple IDE
+cask "nvim"                 # Ambitious Vim-fork focused on extensibility and agility
+cask "git"                  # Distributed revision control system
+cask "node"                 # Platform built on V8 to build network applications
 
 #### Communication ####
 cask "discord"              # Place to talk and hang out
@@ -26,9 +29,9 @@ cask "discord"              # Place to talk and hang out
 
 #### Design ####
 cask "figma"                # The design app
-# mas "affinity-designer"     # Vector design app
-# mas "affinity-photo"      # Photo editor app
-# mas "affinity-publisher"  # Publishing app 
+cask "affinity-designer"    # Vector design app
+# cask "affinity-photo"     # Photo editor app
+# cask "affinity-publisher" # Publishing app 
 # cask "blender"            # 3d modelisation app
 
 #### Other ####
